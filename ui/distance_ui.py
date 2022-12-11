@@ -90,7 +90,7 @@ class Ui_DistanceWindow(object):
 
     def retranslateUi(self, DistanceWindow):
         _translate = QtCore.QCoreApplication.translate
-        DistanceWindow.setWindowTitle(_translate("DistanceWindow", "Form"))
+        DistanceWindow.setWindowTitle(_translate("DistanceWindow", "Расстояние между точками"))
         self.label_2.setText(_translate("DistanceWindow", "Первая точка:"))
         self.label_3.setText(_translate("DistanceWindow", "Вторая точка:"))
         self.label_4.setText(_translate("DistanceWindow", "x1"))

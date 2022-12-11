@@ -52,7 +52,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Главное меню"))
         self.label.setText(_translate("MainWindow", "Чего желаете посчитать"))
         self.sum_div.setText(_translate("MainWindow", "Сложение и деление двух чисел"))
         self.quadratic.setText(_translate("MainWindow", "Решение квадратного уровнения"))

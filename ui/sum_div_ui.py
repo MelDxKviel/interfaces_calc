@@ -65,7 +65,7 @@ class Ui_SumDivWindow(object):
 
     def retranslateUi(self, SumDivWindow):
         _translate = QtCore.QCoreApplication.translate
-        SumDivWindow.setWindowTitle(_translate("SumDivWindow", "Form"))
+        SumDivWindow.setWindowTitle(_translate("SumDivWindow", "Сумма и деление двух чисел"))
         self.label_2.setText(_translate("SumDivWindow", "Первое число:"))
         self.label_3.setText(_translate("SumDivWindow", "Второе число:"))
         self.rad_sum.setText(_translate("SumDivWindow", "Сложение"))

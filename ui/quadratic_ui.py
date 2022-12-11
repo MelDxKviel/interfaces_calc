@@ -87,7 +87,7 @@ class Ui_QuadraticWindow(object):
 
     def retranslateUi(self, QuadraticWindow):
         _translate = QtCore.QCoreApplication.translate
-        QuadraticWindow.setWindowTitle(_translate("QuadraticWindow", "Form"))
+        QuadraticWindow.setWindowTitle(_translate("QuadraticWindow", "Решение квадратного уравнения"))
         self.label_2.setText(_translate("QuadraticWindow", "Введите квадратное уравнение:"))
         self.label_3.setText(_translate("QuadraticWindow", "a ="))
         self.label_4.setText(_translate("QuadraticWindow", "b ="))
